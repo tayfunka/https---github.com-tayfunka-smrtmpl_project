@@ -1,0 +1,165 @@
+Adana
+Data fetched for the city: Adana
+Adıyaman
+Data fetched for the city: Adıyaman
+Afyonkarahisar
+Data fetched for the city: Afyonkarahisar
+Ağrı
+Data fetched for the city: Ağrı
+Amasya
+Data fetched for the city: Amasya
+Ankara
+Data fetched for the city: Ankara
+Antalya
+Data fetched for the city: Antalya
+Artvin
+Data fetched for the city: Artvin
+Aydın
+Data fetched for the city: Aydın
+Balıkesir
+Data fetched for the city: Balıkesir
+Bilecik
+Data fetched for the city: Bilecik
+Bingöl
+Data fetched for the city: Bingöl
+Bitlis
+Data fetched for the city: Bitlis
+Bolu
+Data fetched for the city: Bolu
+Burdur
+Data fetched for the city: Burdur
+Bursa
+Data fetched for the city: Bursa
+Çanakkale
+Data fetched for the city: Çanakkale
+Handırı
+Data fetched for the city: Handırı
+Çorum
+Data fetched for the city: Çorum
+Denizli
+Data fetched for the city: Denizli
+Diyarbakır
+Data fetched for the city: Diyarbakır
+Edirne
+Data fetched for the city: Edirne
+Elazığ
+Data fetched for the city: Elazığ
+Erzincan
+Data fetched for the city: Erzincan
+Erzurum
+Data fetched for the city: Erzurum
+Eskişehir
+Data fetched for the city: Eskişehir
+Gaziantep
+Data fetched for the city: Gaziantep
+Giresun
+Data fetched for the city: Giresun
+Gümüşhane
+Data fetched for the city: Gümüşhane
+Hakkâri
+Data fetched for the city: Hakkâri
+Hatay Province
+Data fetched for the city: Hatay Province
+Isparta
+Data fetched for the city: Isparta
+Mersin
+Data fetched for the city: Mersin
+Istanbul
+Data fetched for the city: Istanbul
+İzmir
+Data fetched for the city: İzmir
+Kars
+Data fetched for the city: Kars
+Kastamonu
+Data fetched for the city: Kastamonu
+Kayseri
+Data fetched for the city: Kayseri
+Kırklareli
+Data fetched for the city: Kırklareli
+Kırşehir
+Data fetched for the city: Kırşehir
+Kocaeli Province
+Data fetched for the city: Kocaeli Province
+Konya
+Data fetched for the city: Konya
+Kütahya
+Data fetched for the city: Kütahya
+Malatya
+Data fetched for the city: Malatya
+Manisa
+Data fetched for the city: Manisa
+Marash
+Data fetched for the city: Marash
+Mardin
+Data fetched for the city: Mardin
+Muğla
+Data fetched for the city: Muğla
+Musashino
+Data fetched for the city: Musashino
+Nevşehir
+Data fetched for the city: Nevşehir
+Niğde
+Data fetched for the city: Niğde
+Ordu
+Data fetched for the city: Ordu
+Rize
+Data fetched for the city: Rize
+Sakarya Province
+Data fetched for the city: Sakarya Province
+Samsun
+Data fetched for the city: Samsun
+Siirt
+Data fetched for the city: Siirt
+Sinop
+Data fetched for the city: Sinop
+Sivas
+Data fetched for the city: Sivas
+Tekirdağ
+Data fetched for the city: Tekirdağ
+Tokat
+Data fetched for the city: Tokat
+Trabzon
+Data fetched for the city: Trabzon
+Tunceli
+Data fetched for the city: Tunceli
+Şanlıurfa
+Data fetched for the city: Şanlıurfa
+Uşak
+Data fetched for the city: Uşak
+Van
+Data fetched for the city: Van
+Yozgat
+Data fetched for the city: Yozgat
+Zonguldak
+Data fetched for the city: Zonguldak
+Aksaray
+Data fetched for the city: Aksaray
+Bayburt
+Data fetched for the city: Bayburt
+Karaman
+Data fetched for the city: Karaman
+Kırıkkale
+Data fetched for the city: Kırıkkale
+Batman
+Data fetched for the city: Batman
+Şırnak
+Data fetched for the city: Şırnak
+Bartın
+Data fetched for the city: Bartın
+Ardahan
+Data fetched for the city: Ardahan
+Iğdır
+Data fetched for the city: Iğdır
+Yalova
+Data fetched for the city: Yalova
+Karabük
+Data fetched for the city: Karabük
+Kilis
+Data fetched for the city: Kilis
+Osmaniye
+Data fetched for the city: Osmaniye
+Düzce
+Data fetched for the city: Düzce
+Data has been updated and written to weathercom_data.json
+Number of cities saved in the JSON file: 81
+Elapsed time: 127.98 seconds

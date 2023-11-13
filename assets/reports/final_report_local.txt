@@ -1,0 +1,21 @@
+Data has been updated and written to assets/havadurumux/havadurumux_data.json
+Total number of cities saved in the JSON file: 80
+'havadurumux: ' Elapsed time: 27.60 seconds
+Updated 80 cities.
+'havadurumux: 'Number of cities matched and saved: 80
+
+Data has been updated and written to assets/metoffice/metoffice_data.json
+Total number of cities saved in the metoffice_data.json: 77
+ 'metoffice: ' Elapsed time: 42.25 seconds
+ 'metoffice: Number of cities matched and saved: 38
+
+Data has been updated and written to assets/weathercom/weathercom_data.json
+Total number of cities saved in the weathercom_data.json: 81
+ 'weathercom: ' Elapsed time: 116.42 seconds
+Updated 81 cities.
+ 'weathercom: ' Number of cities matched and saved: 81
+
+
+final_data.json has been created with data for 81 cities.
+Data has been saved to the 'tayfun_karakavuz' database in MongoDB.
+Total elapsed time: 116.48 seconds

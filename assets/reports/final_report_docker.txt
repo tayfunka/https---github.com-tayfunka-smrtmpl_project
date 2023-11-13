@@ -1,0 +1,18 @@
+tayfunkarakavuz_smartmaple-app-1  | Data has been updated and written to assets/metoffice/metoffice_data.json
+tayfunkarakavuz_smartmaple-app-1  | Total number of cities saved in the metoffice_data.json: 77
+tayfunkarakavuz_smartmaple-app-1  |  'metoffice: ' Elapsed time: 37.98 seconds
+tayfunkarakavuz_smartmaple-app-1  |  'metoffice: Number of cities matched and saved: 38
+tayfunkarakavuz_smartmaple-app-1  | Data has been updated and written to assets/havadurumux/havadurumux_data.json
+tayfunkarakavuz_smartmaple-app-1  | Total number of cities saved in the JSON file: 80
+tayfunkarakavuz_smartmaple-app-1  | 'havadurumux: ' Elapsed time: 55.51 seconds
+tayfunkarakavuz_smartmaple-app-1  | Updated 80 cities.
+tayfunkarakavuz_smartmaple-app-1  | 'havadurumux: 'Number of cities matched and saved: 80
+tayfunkarakavuz_smartmaple-app-1  | Data has been updated and written to assets/weathercom/weathercom_data.json
+tayfunkarakavuz_smartmaple-app-1  | Total number of cities saved in the weathercom_data.json: 81
+tayfunkarakavuz_smartmaple-app-1  |  'weathercom: ' Elapsed time: 101.84 seconds
+tayfunkarakavuz_smartmaple-app-1  | Updated 81 cities.
+tayfunkarakavuz_smartmaple-app-1  |  'weathercom: ' Number of cities matched and saved: 81
+tayfunkarakavuz_smartmaple-app-1  | final_data.json has been created with data for 81 cities.
+tayfunkarakavuz_smartmaple-app-1  | Data has been saved to the 'tayfun_karakavuz' database in MongoDB.
+tayfunkarakavuz_smartmaple-app-1  | Total elapsed time: 102.08 seconds
+tayfunkarakavuz_smartmaple-app-1 exited with code 0

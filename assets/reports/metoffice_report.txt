@@ -1,0 +1,80 @@
+Data fetched for the city: Usak
+Data fetched for the city: Finike
+Data fetched for the city: Gumbet
+Data fetched for the city: Izmir
+Data fetched for the city: Eregli/Konya
+Data fetched for the city: Yozgat
+Data fetched for the city: Kirsehir
+Data fetched for the city: Edirne
+Data fetched for the city: Corum
+Data fetched for the city: Rize
+Data fetched for the city: Gumushane
+Data fetched for the city: Fethiye
+Data fetched for the city: Sinop
+Data fetched for the city: Antalya
+Data fetched for the city: Kalkan
+Data fetched for the city: Altinkum
+Data fetched for the city: Hopa
+Data fetched for the city: Dalaman
+Data fetched for the city: Akhisar
+Data fetched for the city: Inebolu
+Data fetched for the city: Mugla
+Data fetched for the city: Dalyan
+Data fetched for the city: Trabzon
+Data fetched for the city: Icmeler
+Data fetched for the city: Zonguldak
+Data fetched for the city: Istanbul/Goztepe
+Data fetched for the city: Marmaris
+Data fetched for the city: Lara Beach
+Data fetched for the city: Silifke
+Data fetched for the city: Giresun
+Data fetched for the city: Isparta
+Data fetched for the city: Alanya
+Data fetched for the city: Anamur
+Data fetched for the city: Tokat
+Data fetched for the city: Tekirdag
+Data fetched for the city: Diyarbakir
+Data fetched for the city: Ankara/Esenboga
+Data fetched for the city: Hisaronu
+Data fetched for the city: Belek
+Data fetched for the city: Samsun
+Data fetched for the city: Golcuk
+Data fetched for the city: Batman
+Data fetched for the city: Malatya/Bolge
+Data fetched for the city: Oludeniz
+Data fetched for the city: Antalya International
+Data fetched for the city: Izmir/Adnan Menderes
+Data fetched for the city: Bodrum
+Data fetched for the city: Konya
+Data fetched for the city: Bolu
+Data fetched for the city: Iskenderun
+Data fetched for the city: Ordu
+Data fetched for the city: Erzurum
+Data fetched for the city: Istanbul/Ataturk
+Data fetched for the city: Sirnak
+Data fetched for the city: Gaziantep
+Data fetched for the city: Darica
+Data fetched for the city: Kastamonu
+Data fetched for the city: Van
+Data fetched for the city: Calis
+Data fetched for the city: Kayseri
+Data fetched for the city: Sivas
+Data fetched for the city: Istanbul
+Data fetched for the city: Adana
+Data fetched for the city: Istanbul Park
+Data fetched for the city: Kutahya
+Data fetched for the city: Kusadasi
+Data fetched for the city: Nigde
+Data fetched for the city: Side
+Data fetched for the city: Ankara
+Data fetched for the city: Girne
+Data fetched for the city: Hakkari
+Data fetched for the city: Bursa
+Data fetched for the city: Sarigerme
+Data fetched for the city: Corlu Int.
+Data fetched for the city: Adana/Incirlik
+Data fetched for the city: Ovacik
+Data fetched for the city: Canakkale
+Data has been updated and written to metoffice_data.json
+Number of cities saved in the JSON file: 77
+Elapsed time: 28.69 seconds
